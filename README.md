@@ -17,7 +17,7 @@ Computer Science Student at the University of Alberta, currently focused on buil
   - Learn new languages
   - Continue developing as a disciplined engineer
 
-##📫 open to software engineering and IT internship opportunitites
+📫 open to software engineering and IT internship opportunitites
   - How to reach me: f.hasen388@gmail.com
 
 
