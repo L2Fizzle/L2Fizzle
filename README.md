@@ -1,6 +1,7 @@
 # Hi, I'm Faisal 👋
 
-Computer Science Student at the University of Alberta, currently focused on building strong software engineering fundamentals.
+Computer Science Student at the University of Alberta. 
+Currently focused on building strong software engineering fundamentals, and have a strong interest in AI
 
 ## Current Focus
   - Developing Python skills
